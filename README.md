@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![](Board GIF.gif)
+![](Board%20GIF.gif)
