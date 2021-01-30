@@ -12,4 +12,4 @@
 
 ### [Memories Social Media Site](https://memories-mehdi-kh.netlify.app/)
 
-![](emories.gif)
+![](memories.gif)
