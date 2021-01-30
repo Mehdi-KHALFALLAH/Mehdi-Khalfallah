@@ -2,12 +2,12 @@
 
 ### [Covid-Tracker-Live Site](https://covid-tracker-kh.netlify.app/)
 
-![](Covid tracker.gif)
+![](Covidtracker.gif)
 
 
 ### [Live Chat Application Site](https://live-chat-application-by-mehdi-kh.netlify.app/)
 
-![](social Chat application.gif)
+![](socialChatapplication.gif)
 
 
 ### [Memories Social Media Site](https://memories-mehdi-kh.netlify.app/)
