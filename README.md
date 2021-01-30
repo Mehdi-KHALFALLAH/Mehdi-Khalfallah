@@ -2,7 +2,7 @@
 
 ### [Covid-Tracker-Live Site](https://covid-tracker-kh.netlify.app/)
 
-![](covid tracker.gif)
+![](Covid tracker.gif)
 
 
 ### [Live Chat Application Site](https://live-chat-application-by-mehdi-kh.netlify.app/)
