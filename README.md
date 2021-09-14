@@ -20,8 +20,8 @@ I am also a fitness enthusiast and gamer.
 
   <br />
   
-  
-  <img align="right" style="margin-top: 50px;" src="https://github-readme-stats.vercel.app/api?username=Mehdi-KHALFALLAH&show_icons=true&theme=gotham&hide=prs,issues,contribs&count_private=true" alt="Mehdi-KHALFALLAH" />
+  📈 my github stats
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Mehdi-KHALFALLAH&show_icons=true&theme=gotham&hide=prs,issues,contribs&count_private=true" alt="Mehdi-KHALFALLAH" />
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
