@@ -38,7 +38,7 @@ I am also a fitness enthusiast and gamer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehdi-KHALFALLAH&theme=gotham&exclude_repo=My-Arduino-UNO-Design,Low_Noise_Fast_Transient_Response_Low_Dropout_Regulator_AltiumLibrary,Tactile_Switch_AlitumLibrary,Resistors_0805_AltiumLibrary,Capacitor-ALU_C_SIZE_AltiumLibrary,Capacitor_0805_standard_AltiumLibrary,MALE_HEADER_1-4-2.54mm_AltiumLibrary,FEMALE_HEADERS_2.54mm_AltiumLibrary,Micro_USB_TYPE-B_SMT_AltiumLibrary,Crystal_16MHz_AltiumLibrary,ATMEGA328P-PU_AltiumLibrary,Capacitor_0805_145_height_AltiumLibrary,28_DIP_7.62mm_SOCKET_AltiumLibrary,SMT_0603_LED_LED_LGL29K,Single-2_Input_Positive_AND_Gate_With_Open_Drain_Output,Schottky_Diode_AltiumLibrary,ATMEGA16U2-AU_AltiumLibrary,Coursera_Capstone)](https://github.com/anuraghazra/github-readme-stats)
 📈 my github stats
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Mehdi-KHALFALLAH&show_icons=true&theme=gotham&hide=prs,issues,contribs&count_private=true" alt="Mehdi-KHALFALLAH" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Mehdi-KHALFALLAH&show_icons=true&theme=gotham&hide=prs,issues,contribs&count_private=true" alt="Mehdi-KHALFALLAH" />
 
 
 
