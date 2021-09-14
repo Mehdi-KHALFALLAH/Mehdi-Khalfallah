@@ -17,6 +17,8 @@ I am also a fitness enthusiast and gamer.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <br />
+  <br />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Mehdi-KHALFALLAH&show_icons=true&theme=gotham&hide=prs,issues,contribs&count_private=true" alt="Mehdi-KHALFALLAH" />
 - 💬 ask me about anything, i am happy to help;
 
@@ -37,4 +39,3 @@ I am also a fitness enthusiast and gamer.
 
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mehdi-KHALFALLAH&show_icons=true&theme=gotham&hide=prs,issues,contribs&count_private=true" alt="Mehdi-KHALFALLAH" />
