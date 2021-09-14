@@ -48,4 +48,4 @@ JavaScript   54 mins         ██░░░░░░░░░░░░░░░
 
 📈 my github stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Mehdi-KHALFALLAH&show_icons=true&theme=gotham" alt="Mehdi-KHALFALLAH" />
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=Mehdi-KHALFALLAH&show_icons=true&theme=gotham" alt="Mehdi-KHALFALLAH" />
