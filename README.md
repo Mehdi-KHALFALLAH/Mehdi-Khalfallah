@@ -40,7 +40,8 @@ JSX          9 hrs 59 mins   █████████████████
 JavaScript   54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
 ```
 <!--END_SECTION:waka-->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mehdi-KHALFALLAH)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=Mehdi-KHALFALLAH&show_icons=true&theme=gotham" alt="Mehdi-KHALFALLAH" />
