@@ -37,4 +37,4 @@ I am also a fitness enthusiast and gamer.
 
 
 
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=Mehdi-KHALFALLAH&show_icons=true&theme=gotham" alt="Mehdi-KHALFALLAH" />
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=Mehdi-KHALFALLAH&show_icons=true&theme=gotham&cache_seconds=3000" alt="Mehdi-KHALFALLAH" />
