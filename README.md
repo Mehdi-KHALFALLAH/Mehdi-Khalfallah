@@ -53,5 +53,5 @@ I am also a fitness enthusiast and gamer.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [𝐑𝐞𝐚𝐜𝐭 🆚 𝐀𝐧𝐠𝐮𝐥𝐚𝐫](https://dev.to/mehdikhalfallah/-1ebj)
 <!-- BLOG-POST-LIST:END -->
