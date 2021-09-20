@@ -53,7 +53,7 @@ I am also a fitness enthusiast and gamer.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Software Testing](https://dev.to/mehdikhalfallah/software-testing-5ca3)
+- [Software Testing 💻](https://dev.to/mehdikhalfallah/software-testing-5ca3)
 - [Why React  ❓](https://dev.to/mehdikhalfallah/why-react-4oo3)
 - [𝐑𝐞𝐚𝐜𝐭 🆚 𝐀𝐧𝐠𝐮𝐥𝐚𝐫](https://dev.to/mehdikhalfallah/-1ebj)
 <!-- BLOG-POST-LIST:END -->
