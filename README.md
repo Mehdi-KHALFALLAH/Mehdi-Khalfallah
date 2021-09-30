@@ -8,6 +8,7 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Mehdi-KHALFALLAH.visitor-badge)
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <br />
 
