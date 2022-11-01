@@ -12,7 +12,7 @@
 
 <br />
 
-Hi, i'm [Mehdi Khalfallah](https://mehdikh.netlify.app/), a passionate self-taught Mobile Software Engineer from Tunisia. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, i'm [Mehdi Khalfallah](https://mehdikh.netlify.app/), a Mobile Software Engineer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also a fitness enthusiast and gamer. 
 
